@@ -1,6 +1,6 @@
 # Text-Editor
 Text Editor using python
-modules used - Tkinter module, os module
+modules used - tkinter module, os module
 
 The editor is capable of doing cut, copy, paste. 
 Font size, color, style, family can be changed.
